@@ -1,0 +1,7 @@
+{"timestamp":"00:00:11.984","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:48.493","source":"Server","level":"LOG","message":"○ Compiling / ..."}
+{"timestamp":"00:00:59.109","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:04:27.430","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:11:17.021","source":"Server","level":"LOG","message":"✓ Compiled in 227ms"}
+{"timestamp":"00:11:24.438","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:11:38.953","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
